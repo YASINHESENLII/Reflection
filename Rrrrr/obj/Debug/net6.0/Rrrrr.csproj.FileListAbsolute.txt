@@ -1,0 +1,15 @@
+C:\Users\Asus\Documents\C#AB103\Rrrrr\Rrrrr\bin\Debug\net6.0\Rrrrr.exe
+C:\Users\Asus\Documents\C#AB103\Rrrrr\Rrrrr\bin\Debug\net6.0\Rrrrr.deps.json
+C:\Users\Asus\Documents\C#AB103\Rrrrr\Rrrrr\bin\Debug\net6.0\Rrrrr.runtimeconfig.json
+C:\Users\Asus\Documents\C#AB103\Rrrrr\Rrrrr\bin\Debug\net6.0\Rrrrr.dll
+C:\Users\Asus\Documents\C#AB103\Rrrrr\Rrrrr\bin\Debug\net6.0\Rrrrr.pdb
+C:\Users\Asus\Documents\C#AB103\Rrrrr\Rrrrr\obj\Debug\net6.0\Rrrrr.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\C#AB103\Rrrrr\Rrrrr\obj\Debug\net6.0\Rrrrr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\C#AB103\Rrrrr\Rrrrr\obj\Debug\net6.0\Rrrrr.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\C#AB103\Rrrrr\Rrrrr\obj\Debug\net6.0\Rrrrr.AssemblyInfo.cs
+C:\Users\Asus\Documents\C#AB103\Rrrrr\Rrrrr\obj\Debug\net6.0\Rrrrr.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\C#AB103\Rrrrr\Rrrrr\obj\Debug\net6.0\Rrrrr.dll
+C:\Users\Asus\Documents\C#AB103\Rrrrr\Rrrrr\obj\Debug\net6.0\refint\Rrrrr.dll
+C:\Users\Asus\Documents\C#AB103\Rrrrr\Rrrrr\obj\Debug\net6.0\Rrrrr.pdb
+C:\Users\Asus\Documents\C#AB103\Rrrrr\Rrrrr\obj\Debug\net6.0\Rrrrr.genruntimeconfig.cache
+C:\Users\Asus\Documents\C#AB103\Rrrrr\Rrrrr\obj\Debug\net6.0\ref\Rrrrr.dll
